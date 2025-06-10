@@ -1,0 +1,8 @@
+{
+  "websocket_listen": 8080,
+  "server_address": "smp.zonikyo.com",
+  "server_port": 25565,
+  "use_ssl": true,
+  "ssl_key": "certs/privkey.pem",
+  "ssl_cert": "certs/fullchain.pem"
+}
